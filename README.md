@@ -21,7 +21,7 @@
 - 🤝 **Help & Exchange:** High-availability Architecture & Enterprise Cyber Security
 - 🌱 **Learning & Research:** Advanced RBAC Models, CI/CD Workflows & Performance Tuning
 - 💬 **Ask Me About:** Enterprise Web Architecture, MySQL Optimization & Data Security
-- ⚡ **Fun Fact:** I'll happily spend 10 hours automating a 5-minute task so I never have to do it again!
+- ⚡ **Fun Fact:** Fluent in 3 languages: Vietnamese, Gehihi, and ChatGPT :-)
 
 ---
 
