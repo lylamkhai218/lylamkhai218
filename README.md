@@ -14,7 +14,8 @@
 # 💫 About Me
 - 👤 **Full Name:** Lý Lâm Khải *(International Name: Mr. Ly Kai)*
 - 🎂 **Birthday:** August 21st (21-08) 🦁
-- 🎓 **Education:** Information Technology Engineer • <img src="https://hou.edu.vn/wp-content/uploads/2023/09/n-logohou.png" width="22" height="22" style="vertical-align: middle;" alt="HOU Logo" /> **Hanoi Open University (HOU)**
+- 🎓 **Education:** Information Technology Engineer 
+- <img src="https://hou.edu.vn/wp-content/uploads/2023/09/n-logohou.png" width="22" height="22" style="vertical-align: middle;" alt="HOU Logo" /> **Hanoi Open University (HOU)**
 - 🌍 **Nationality:** Vietnam <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/vn.svg" width="20" height="15" style="vertical-align: middle;" alt="Vietnam Flag" />
 - 🔭 **Current Focus:** Fullstack Web Development & AI Automation Systems
 - 👯 **Collaboration:** Business Process Automation & Scalable Internal Tools
