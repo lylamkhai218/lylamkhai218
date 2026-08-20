@@ -103,7 +103,5 @@
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=lylamkhai218&icon=5&color=4" alt="Visitor Count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=lylamkhai218&color=00d2ff&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views Count" />
 </p>
