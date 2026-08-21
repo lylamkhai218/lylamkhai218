@@ -53,7 +53,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" width="45" height="45" />
   <img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" alt="Laravel" width="45" height="45" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="45" height="45" />
   <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" width="45" height="45" />
   <img src="https://camo.githubusercontent.com/8430d012d47d99fe1d2c03a48c62864044fda11fae5e130d16bcd1186a3221e0/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f73716c2e706e67" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="45" height="45" style="border-radius: 10px;" />
@@ -62,11 +61,9 @@
 ### ☁️ Cloud, Servers & DevOps
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" alt="Kubernetes" width="45" height="45" />
   <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" alt="Nginx" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="45" height="45" />
   <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud Platform" alt="Google Cloud" width="45" height="45" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" alt="Cloudflare" width="45" height="45" />
   <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" width="45" height="45" />
   <img src="https://skillicons.dev/icons?i=npm" title="NPM" alt="NPM" width="45" height="45" />
   <img src="https://skillicons.dev/icons?i=yarn" title="Yarn" alt="Yarn" width="45" height="45" />
@@ -87,7 +84,7 @@
 
 ---
 
-# 📊 GitHub Stats & Activity
+# GitHub Stats & Activity
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lylamkhai218&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lylamkhai218&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" height="165" />
