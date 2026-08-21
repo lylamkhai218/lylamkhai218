@@ -87,7 +87,7 @@
 # GitHub Stats & Activity
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lylamkhai218&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lylamkhai218&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lylamkhai218&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&hide=html,css" alt="Top Languages" height="165" />
 </div>
 
 <div align="center" style="margin-top: 15px;">
