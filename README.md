@@ -91,7 +91,7 @@
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <img src="https://streak-stats.demolab.com/?user=lylamkhai218&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=lylamkhai218&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
 </div>
 
 <div align="center" style="margin-top: 15px;">
