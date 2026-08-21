@@ -6,7 +6,7 @@
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="vertical-align: middle;" />
   </h2>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=850&height=50&lines=Fullstack+Engineer+%7C+Enterprise+System+Architect;AI+Automation+%26+Business+Workflow+Specialist;Turning+Complex+Logic+Into+Simple+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=850&height=50&lines=Web+Developer+%7C+Enterprise+System+Architect;AI+Automation+%26+Business+Workflow+Specialist;Turning+Complex+Logic+Into+Simple+Solutions" alt="Typing SVG" />
 </div>
 
 ---
